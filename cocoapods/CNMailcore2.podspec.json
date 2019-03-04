@@ -1,6 +1,6 @@
 {
   "name": "CNMailcore2",
-  "version": "0.5.2",
+  "version": "0.6.5",
   "summary": "Mailcore 2 for iOS",
   "description": "MailCore 2 provide a simple and asynchronous API to work with e-mail protocols IMAP, POP and SMTP.",
   "homepage": "http://libmailcore.com",
@@ -10,7 +10,7 @@
   },
   "authors": "MailCore Authors",
   "source": {
-    "http": "http://build04maca.corporate.local/ColligoPods/CNmailcore2/0.5.2/mailcore2-ios-8.zip",
+    "http": "file://localhost/Users/arunkumar/Documents/Projects/mailcore2-ios-8.zip",
     "flatten": true
   },
   "platforms": {
